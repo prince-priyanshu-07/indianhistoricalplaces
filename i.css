@@ -1,0 +1,224 @@
+*
+{
+    margin:0;
+    padding:0;
+    border:border-box;
+}
+
+.navbar
+{
+    background: linear-gradient(180deg,#f25f04,#e17f1c,#ffffff,#40916c,#2d6a4f);
+    height: 45px;
+    width:100%;
+}
+
+h1
+{ 
+    color: rgb(20, 58, 147);
+    text-align: center;
+}
+
+footer
+{
+   background: linear-gradient(180deg,#03045e,#023e8a,#0077b6);
+   height:7vh;
+   color: #ffffff;
+   bottom: 0;
+   position: fixed;
+   width:100%;
+   text-align: center;
+}
+
+.Shri_Jagannatha_Temple
+{
+    width:300px;
+    height:300px;
+    margin-left:20px;
+    margin-top:40px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.SJT
+{
+    width:270px;
+    height:270px;
+    margin-left:30px;
+    margin-top:20px;
+}
+
+.Sun_Temple
+{
+    position:absolute;
+    top:80px;
+    left:450px;
+    width:300px;
+    height:300px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.ST
+{
+    position: absolute;
+    top:390px;
+    left:450px;
+    width: 250px;
+    height:250px;
+
+}
+
+.Ellora_Caves
+{
+    position:absolute;
+    top:80px;
+    width:300px;
+    height:300px;
+    left:860px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.EC
+{
+    position: absolute;
+    top:390px;
+    left:860px;
+    width:300px;
+    height:300px;
+}
+
+.Gateway_of_India
+{
+    position:absolute;
+    top:80px;
+    width:300px;
+    height: 300px;
+    left:1220px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.GI
+{
+    position: absolute;
+    top:390px;
+    width:300px;
+    height:300px;
+    left:1215px;
+}
+
+.search
+{
+    background: linear-gradient(120deg,#abc4ff,#b6ccfe,#c1d3fe);
+    border-style: double;
+    border-width: 3px;
+}
+
+.search:hover
+{
+    background: linear-gradient(120 deg,#7e6b8f,#a594f9,#cdc1ff);
+    color: #4f0147;
+}
+
+.Khajuraho_Group_of_Monuments
+{
+    margin-left: 15px;
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:600px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.KGM
+{
+    position: absolute;
+    top:899px;
+    width:300px;
+    height:300px;
+    left:15px;
+}
+
+.Jantar_Mantar
+{
+    width:300px;
+    height:300px;
+    position: absolute;
+    left:450px;
+    top:600px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.JM
+{
+    width:300px;
+    height:300px;
+    position: absolute;
+    left:450px;
+    top:899px;
+}
+
+.Taj_Mahal
+{
+    width: 300px;
+    height:300px;
+    position:absolute;
+    top:600px;
+    left:850px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.TM
+{
+    width:300px;
+    height: 300px;
+    position:absolute;
+    top:899px;
+    left:850px;
+}
+
+.Rani_ki_Vav
+{
+    width:300px;
+    height: 300px;
+    position:absolute;
+    left:1210px;
+    top:600px;
+    border-style: double ;
+    border-color: rgba(216, 15, 216, 0.685);
+    border-width: 7px;
+}
+
+.RV
+{
+    width:300px;
+    height:300px;
+    top: 899px;
+    position:absolute;
+    left:1210px;
+}
+
+.audio
+{
+    position: absolute;
+    top:1100px;
+    left:650px;
+    margin-bottom: 20px;
+}
+
+h2
+{
+    position:absolute;
+    top:1030px;
+}
